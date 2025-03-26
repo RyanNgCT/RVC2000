@@ -61,10 +61,8 @@ Framework is used when we analyse culture
 	- framework suggests that culture determines behaviour, but individuals can act against cultural norms
 
 - very often, we assume without asking about the actual intention of a cultural practices
-
 ### SDGs
 - need to customize and localize targets to make it fit into the local cultural realities
-
 ### Spirals Framework (using the first $5$ mainly)
 - used to evaluate the sustainability of a project
 	- Scalability: being open to conversation, applicable to other areas?
@@ -74,7 +72,6 @@ Framework is used when we analyse culture
 	- Accessible: ;linked to inclusivity (who is included and who is left out)
 	- (Life-affirming)
 	- (Self-care)
-
 
 ### Main Issues in the Kelab Alami Reading
 - what are the main issues
